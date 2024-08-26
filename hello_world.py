@@ -1,2 +1,2 @@
-#Exercise: Print "Hello, World!"
+# Exercise: Print "Hello, World!"
 print("Hello World")
